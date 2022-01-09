@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<quiz>
+    <questionnaire>
+    	<question>What is the Emirates Group Emiratisation strategy called?</question>
+    	<answer1>Maseeraty</answer1>
+    	<answer2>Rehlaty</answer2>
+    	<answer3>Wojhaty</answer3>
+    	<answer4>Mostaqbaly</answer4>
+    	<correctAnswer>Rehlaty</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>Which of the below organisations provide a leadership programme for UAE National employees in the Emirates Group?</question>
+    	<answer1>Airbus</answer1>
+    	<answer2>General Electric</answer2>
+    	<answer3>Rolls-Royce</answer3>
+    	<answer4>All of the above</answer4>
+    	<correctAnswer>All of the above</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>What is the pilot training scholarship programme at the Emirates Group called?</question>
+    	<answer1>Cadet Pilot Programme</answer1>
+    	<answer2>Aviation Management Programme</answer2>
+    	<answer3>The Technologist Programme</answer3>
+    	<answer4>Ab-inito Pilot Programme</answer4>
+    	<correctAnswer>Cadet Pilot Programme</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>Which of the below is not a stage in the Cadet Pilot Programme selection process?</question>
+    	<answer1>Math and Physics test</answer1>
+    	<answer2>Medical test</answer2>
+    	<answer3>Swimming test</answer3>
+    	<answer4>Psychometric test</answer4>
+    	<correctAnswer>Swimming test</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>Which of the below is not a stage in the Aircraft Maintenance Engineering License Programme selection process?</question>
+    	<answer1>Math and Physics test</answer1>
+    	<answer2>Psychomotor test</answer2>
+    	<answer3>Interview</answer3>
+    	<answer4>Medical Test</answer4>
+    	<correctAnswer>Psychomotor test</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>The Emirates Group job posting website is www.emirates.com/.....? </question>
+    	<answer1>Careers</answer1>
+    	<answer2>Jobs</answer2>
+    	<answer3>Positions</answer3>
+    	<answer4>Vacancies</answer4>
+    	<correctAnswer>Careers</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>How many female UAE National pilots currently fly with Emirates?</question>
+    	<answer1>3</answer1>
+    	<answer2>4</answer2>
+    	<answer3>5</answer3>
+    	<answer4>6</answer4>
+    	<correctAnswer>5</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>How many female UAE National engineers currently work with Emirates?</question>
+    	<answer1>30</answer1>
+    	<answer2>69</answer2>
+    	<answer3>70</answer3>
+    	<answer4>80</answer4>
+    	<correctAnswer>69</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>How many UAE National pilots currently fly and enrolled in the cadet pilot programme with Emirates?</question>
+    	<answer1>350</answer1>
+    	<answer2>400</answer2>
+    	<answer3>500</answer3>
+    	<answer4>612</answer4>
+    	<correctAnswer>612</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>How many UAE National Engineers currently work with Emirates?</question>
+    	<answer1>200</answer1>
+    	<answer2>300</answer2>
+    	<answer3>400</answer3>
+    	<answer4>500</answer4>
+    	<correctAnswer>400</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>Fill the gap: Dubai International Airport is the world's ____ airport for  international passenger traffic.</question>
+    	<answer1>No. 1</answer1>
+    	<answer2>No. 2</answer2>
+    	<answer3>No. 3</answer3>
+    	<answer4>No. 4</answer4>
+    	<correctAnswer>No. 1</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>How many channels of inflight entertainment does Emirates offer?</question>
+    	<answer1>1500</answer1>
+    	<answer2>over 4500</answer2>
+    	<answer3>2200</answer3>
+    	<answer4>3500</answer4>
+    	<correctAnswer>over 4500</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>Which award did Emirates win at the Skytrax Airline Awards in 2019</question>
+    	<answer1>World's Best Inflight Entertainment</answer1>
+    	<answer2>Best Business Class</answer2>
+    	<answer3>Best Business Class Airline Lounge</answer3>
+    	<answer4>Best First Class</answer4>
+    	<correctAnswer>World's Best Inflight Entertainment</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>How many destinations does Emirates fly to?</question>
+    	<answer1>105</answer1>
+    	<answer2>158</answer2>
+    	<answer3>121</answer3>
+    	<answer4>200</answer4>
+    	<correctAnswer>158</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>How many International awards for excellence has Emirates received since its launch in 1985?</question>
+    	<answer1>200</answer1>
+    	<answer2>More than 500</answer2>
+    	<answer3>350</answer3>
+    	<answer4>More than 600</answer4>
+    	<correctAnswer>More than 500</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>What is the minimum time required to complete the pilot training programme at Emirates Flight Training?</question>
+    	<answer1>21 months</answer1>
+    	<answer2>12 months</answer2>
+    	<answer3>10 months</answer3>
+    	<answer4>6 months</answer4>
+    	<correctAnswer>21 months</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>How many destinations does the Emirates A380 fly to?</question>
+    	<answer1>5</answer1>
+    	<answer2>51</answer2>
+    	<answer3>36</answer3>
+    	<answer4>48</answer4>
+    	<correctAnswer>51</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>What in-flight service did Emirates become the first international carrier to introduce in 2008?</question>
+    	<answer1>Mobile service</answer1>
+    	<answer2>Internet access</answer2>
+    	<answer3>Gaming service</answer3>
+    	<answer4>Inflight entertainment</answer4>
+    	<correctAnswer>Mobile service</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>In what year did Emirates first take to the skies with their inaugural flight?</question>
+    	<answer1>1989</answer1>
+    	<answer2>1987</answer2>
+    	<answer3>1985</answer3>
+    	<answer4>1980</answer4>
+    	<correctAnswer>1985</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>How many terminals does Dubai International Airport have?</question>
+    	<answer1>3</answer1>
+    	<answer2>2</answer2>
+    	<answer3>4</answer3>
+    	<answer4>5</answer4>
+    	<correctAnswer>3</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>The Boeing 777-300ERs are the backbone of the Emirates fleet, how many does Emirates currently have?</question>
+    	<answer1>98</answer1>
+    	<answer2>134</answer2>
+    	<answer3>167</answer3>
+    	<answer4>105</answer4>
+    	<correctAnswer>134</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>How many Emirates flights depart from the UAE each day?</question>
+    	<answer1>1000</answer1>
+    	<answer2>500</answer2>
+    	<answer3>200</answer3>
+    	<answer4>2000</answer4>
+    	<correctAnswer>500</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>What destination is the furthest non-stop A380 service from Dubai?</question>
+    	<answer1>Los Angeles</answer1>
+    	<answer2>London</answer2>
+    	<answer3>Auckland</answer3>
+    	<answer4>Cape Town</answer4>
+    	<correctAnswer>Auckland</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>What year did Emirates introduce its First Class Suites?</question>
+    	<answer1>2003</answer1>
+    	<answer2>2005</answer2>
+    	<answer3>2008</answer3>
+    	<answer4>2010</answer4>
+    	<correctAnswer>2003</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>What year did Emirates introduce its Shower Spas?</question>
+    	<answer1>2013</answer1>
+    	<answer2>2011</answer2>
+    	<answer3>2009</answer3>
+    	<answer4>2002</answer4>
+    	<correctAnswer>2009</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>With 11 daily flights, which is Emirates most regularly serviced city?</question>
+    	<answer1>London</answer1>
+    	<answer2>Frankfurt</answer2>
+    	<answer3>Karachi</answer3>
+    	<answer4>Mumbai</answer4>
+    	<correctAnswer>London</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>What is the international airport code for Dubai International Airport?</question>
+    	<answer1>DUB</answer1>
+    	<answer2>DXB</answer2>
+    	<answer3>DWC</answer3>
+    	<answer4>DIA</answer4>
+    	<correctAnswer>DXB</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>What colour is the Emirates Cabin Crew hat?</question>
+    	<answer1>Beige</answer1>
+    	<answer2>Red</answer2>
+    	<answer3>White</answer3>
+    	<answer4>Black</answer4>
+    	<correctAnswer>Red</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>What is the name of Emirates inflight entertainment system?</question>
+    	<answer1>IES</answer1>
+    	<answer2>ICE</answer2>
+    	<answer3>EKC</answer3>
+    	<answer4>INT</answer4>
+    	<correctAnswer>ICE</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>What is the official colour of Emirates?</question>
+    	<answer1>Green</answer1>
+    	<answer2>Beige</answer2>
+    	<answer3>Red</answer3>
+    	<answer4>White</answer4>
+    	<correctAnswer>Red</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>How many engines does an A380 aircraft have?</question>
+    	<answer1>4</answer1>
+    	<answer2>2</answer2>
+    	<answer3>6</answer3>
+    	<answer4>3</answer4>
+    	<correctAnswer>4</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>What was Emirates' first A380 destination?</question>
+    	<answer1>New York</answer1>
+    	<answer2>London</answer2>
+    	<answer3>Sydney</answer3>
+    	<answer4>Mumbai</answer4>
+    	<correctAnswer>New York</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>How many A380s does Emirates have in service?</question>
+    	<answer1>more than 110</answer1>
+    	<answer2>50-80</answer2>
+    	<answer3>80-100</answer3>
+    	<answer4>30-50</answer4>
+    	<correctAnswer>more than 110</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>How many wheels does an A380 have?</question>
+    	<answer1>22</answer1>
+    	<answer2>20</answer2>
+    	<answer3>30</answer3>
+    	<answer4>32</answer4>
+    	<correctAnswer>22</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>When did Emirates receive its first A380?</question>
+    	<answer1>2008</answer1>
+    	<answer2>2005</answer2>
+    	<answer3>2010</answer3>
+    	<answer4>2000</answer4>
+    	<correctAnswer>2008</correctAnswer>
+	</questionnaire>
+	<questionnaire>
+    	<question>How many continents does Emirates airline currently fly across?</question>
+    	<answer1>6</answer1>
+    	<answer2>4</answer2>
+    	<answer3>5</answer3>
+    	<answer4>7</answer4>
+    	<correctAnswer>6</correctAnswer>
+	</questionnaire>
+	<levels>
+		<totalLevels>5</totalLevels>
+	</levels>
+	<time>
+		<totalTime>21</totalTime>
+	</time>
+	<answerBox>
+		<displayBox>true</displayBox>
+	</answerBox>
+</quiz>
